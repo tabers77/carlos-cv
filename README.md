@@ -1,25 +1,14 @@
-# Carlos Resume
+# About Me
+I am a seasoned Senior Data Scientist with a rich background spanning 6 years in NLP, Reinforcement Learning, and Data Analytics. Proficient in leveraging cutting-edge technologies such as LLM open source platforms like Hugging Face, Lanchain, and Streamlit. My expertise extends to cloud services (Snowflake, AWS, Azure, GCP) and essential programming tools (Jupyter, PyCharm, Git). I possess strong capabilities in Machine Learning, Deep Learning, and constructing effective Recommendation Systems. Known for my ability to swiftly adapt to diverse data and business challenges, I bring not only technical proficiency but also robust communication skills, establishing myself as a creative team player. Committed to delivering well-written, object-oriented code, I am enthusiastic about pushing the boundaries of innovation in the field.
 
-## Tech Stack
-- **Chatbots Orchestration**
-- **Hugging Face** (Open-source NLP library)
-- **Lanchain**
-- **Streamlit**
-- **Azure Cloud Integration**
-- **Design Patterns Implementation**
-- **Azure AutoML SDK**
-- **LSTM Models for Forecasting**
-- **Deep Neural Networks for Propensity Score**
-- **Scikit-Learn**
-- **Collaborative Filtering for Recommender Systems**
-- **Bayesian Statistics for Dynamic Pricing**
-- **Python**
-- **SQL**
-- **SnowFlake**
-- **GIT**
-- **Azure Cloud**
-- **Databricks**
-- **MongoDB**
+# Work Experience
+## Senior Data Scientist | Stora Enso
+ (Full time employee)
+ 
+**TECH STACK:** Chatbots Orchestration, Hugging Face (Open-source NLP library), Lanchain, Streamlit, 
+Azure Cloud Integration, Design Patterns Implementation, Azure AutoML SDK, LSTM Models for, Forecasting, Deep Neural Networks for Propensity Score, Scikit-Learn, Collaborative Filtering for Recommender Systems, Bayesian Statistics for Dynamic Pricing, Python, SQL, SnowFlake, GIT, Azure Cloud, Databricks, MongoDB
+
+
 
 ## Projects
 
