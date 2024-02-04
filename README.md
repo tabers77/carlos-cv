@@ -74,8 +74,3 @@ The initial idea popped up when I notice that daily data science coding tasks co
 Primary Goal: Build a solution to automate the daily machine learning workflow to be able to invest more time in other relevant activities of a data science project. 
 
 Solution: Build a set of python functions and classes covering all stages of a typical machine learning pipeline (data transformation - encoding - feature engineering - modelling). The structure of the functions is flexible enough to let the developer ingest more functions/classes depending on the needs of a particular project. The user is able to choose the order of specific ML steps/stages and which transformations gave the best result/scores/error. The output of every individual stage are stored in MLFlow and local folders.
-
-
-
-
-
