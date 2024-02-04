@@ -1,5 +1,4 @@
-# Senior Data Scientist/AI developer | Passionate about NLP and Reinforcement Learning
-Data Science | Python | Machine Learning
+# Senior Data Scientist-AI developer
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
