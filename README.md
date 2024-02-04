@@ -1,6 +1,8 @@
 # Senior Data Scientist-AI developer
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+## About Me
+I'm a Senior Data Scientist with 6 years of experience in NLP, Reinforcement Learning, and Data Analytics. Skilled in technologies like Hugging Face, Lanchain, Streamlit, and cloud services (Snowflake, AWS, Azure, GCP). Proficient in ML, DL, and building Recommendation Systems. Adaptable to diverse data challenges, I excel in communication, bringing technical prowess and creativity to the team. Committed to delivering efficient, innovative code.
+
 
 ## Education
 - Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
@@ -8,9 +10,11 @@
 - B.S., Physics | The University of Texas at Dallas (_May 2017_)
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
+### Data Scientist @ Toyota Financial Services (_June 2022 - Present_)
 - Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
 - Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+- 
+**Technical Skills: Python, SQL, AWS, Snowflake, MATLAB**
 
 **Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
 - Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
