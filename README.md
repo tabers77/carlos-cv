@@ -117,9 +117,6 @@ I had the pleasure to be invited as a guest lecturer for one day to teach data a
 - Collaborated with social media team, managing ads, optimizing campaigns, and analyzing data using Facebook Analytics and Facebook pixel.
 
 
-# Talks & Lectures
-- TODO: ADD PODCAST 
-
 # Contact info:
 - **Email:** [tabers77@gmail.com](tabers77@gmail.com)
 - **GitHub:** [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/tabers77)
