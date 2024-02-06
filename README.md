@@ -3,7 +3,6 @@
 # About Me
 I'm a **Senior Data Scientist** with **6 years** of experience in NLP, Reinforcement Learning, and Data Analytics. Skilled in technologies like Hugging Face, Lanchain, Streamlit, and cloud services (Snowflake, AWS, Azure, GCP). Proficient in ML, DL, and building Recommendation Systems. Adaptable to diverse data challenges, I excel in communication, bringing technical prowess and creativity to the team. Committed to delivering efficient, innovative code.
 
-
 # Education
 - Advance Machine Learning Specialisation | Higher School of Economics (_2020 - 2022_)								       		
 - Data Analysis/Statistics | Nackademin (_2015 - 2017_)	 			        		
@@ -14,11 +13,9 @@ I'm a **Senior Data Scientist** with **6 years** of experience in NLP, Reinforce
 - [Natural Language Processing Specialisation (_2023_)](https://coursera.org/share/5155ae51c7b6ae9566525b2a19d40efa)
 
 # Publications & Projects
-
 1. Building Baseline Models with Design Patterns in ML (Part 1). [Publication](https://medium.com/@tabers77/building-baseline-models-with-design-patterns-in-ml-part-1-1b85b8dcc6cb)
 2. Exploring Stable Diffusion in Google Colab using CUDA: A Step-by-Step Tutorial. [Publication](https://pub.aimind.so/exploring-stable-diffusion-in-google-colab-using-cuda-a-step-by-step-tutorial-35452519fdeb)
 3. Hyperdimensional Computing: Taking AI to the Next Level by Emulating the Brain. [Publication](https://medium.com/latinxinai/hyperdimensional-computing-taking-ai-to-the-next-level-by-emulating-the-brain-a79286581ca1)
-
     		
 # Work Experience
 ## Senior Data Scientist | Stora Enso (_June 2022 - Present_)
