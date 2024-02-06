@@ -1,13 +1,13 @@
-# Senior Data Scientist-AI developer
+# _Senior Data Scientist-AI developer_
 
-## About Me
+# About Me
 I'm a Senior Data Scientist with 6 years of experience in NLP, Reinforcement Learning, and Data Analytics. Skilled in technologies like Hugging Face, Lanchain, Streamlit, and cloud services (Snowflake, AWS, Azure, GCP). Proficient in ML, DL, and building Recommendation Systems. Adaptable to diverse data challenges, I excel in communication, bringing technical prowess and creativity to the team. Committed to delivering efficient, innovative code.
 
 
-## Education
+# Education
 - Advance Machine Learning Specialisation | Higher School of Economics (_2020 - 2022_)								       		
 - Data Analysis/Statistics | Nackademin (_2015 - 2017_)	 			        		
-- International Relations | Stockholms University(_2010 - 2015_)
+- International Relations | Stockholms University (_2010 - 2015_)
 
 ### Courses & Specialisations  
 - Advance Machine Learning Specialisation | Higher School of Economics (_2020 - 2022_)								       		
@@ -48,8 +48,8 @@ Project Stages:
 - Built collaborative filtering and hybrid recommender systems.
 - Utilized Bayesian statistics for dynamic pricing to optimize revenue and customer satisfaction.
   
-**Tech Stack:** Databricks, MLFlow, Hugging Face (Open-source NLP library), Lanchain, Streamlit, 
-Azure Cloud Integration, Design Patterns Implementation, Azure AutoML SDK, LSTM Models for, Forecasting, Deep Neural Networks for Propensity Score, Scikit-Learn, Collaborative Filtering for Recommender Systems, Bayesian Statistics for Dynamic Pricing, Python, SQL, SnowFlake, GIT, Azure Cloud, Databricks, MongoDB
+_**Tech Stack:** Databricks, MLFlow, Hugging Face (Open-source NLP library), Lanchain, Streamlit, 
+Azure Cloud Integration, Design Patterns Implementation, Azure AutoML SDK, LSTM Models for, Forecasting, Deep Neural Networks for Propensity Score, Scikit-Learn, Collaborative Filtering for Recommender Systems, Bayesian Statistics for Dynamic Pricing, Python, SQL, SnowFlake, GIT, Azure Cloud, Databricks, MongoDB_
 
 ### Data Scientist | TUI Global (_March 2021 - June 2022_)
 **Customer Life Time Value Project (Mar 2021 - Nov 2021):**
