@@ -16,16 +16,69 @@ I'm a Senior Data Scientist with 6 years of experience in NLP, Reinforcement Lea
     		
 ## Work Experience
 ### Senior Data Scientist | Stora Enso (_June 2022 - Present_)
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**AI Acceleration with Generative AI Project (January 2024 - Present):**
+
+- Democratized generative AI capabilities company-wide.
+- Orchestrated chatbots using a mix of closed and open-source tools.
+- Integrated chatbots seamlessly into Azure cloud for scalability and optimal performance.
   
-**Tech Stack: Databricks, MLFlow, Hugging Face (Open-source NLP library), Lanchain, Streamlit, 
-Azure Cloud Integration, Design Patterns Implementation, Azure AutoML SDK, LSTM Models for, Forecasting, Deep Neural Networks for Propensity Score, Scikit-Learn, Collaborative Filtering for Recommender Systems, Bayesian Statistics for Dynamic Pricing, Python, SQL, SnowFlake, GIT, Azure Cloud, Databricks, MongoDB**
+**Precision Forestry Project (August 2023 - December 2023):**
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+- Optimized code structure using design patterns.
+- Refactored regression models and implemented Azure AutoML SDK.
+- Streamlined development processes, enhancing overall codebase efficiency.
+  
+**Selfly Store Project (June 2022 - June 2023):**
+  
+Leveraged AI to transform vending machines into AI-driven systems.
+Developed a patentable AI solution, currently in the process of being filed in the US.
+Project Stages:
 
+1. Analytics/Engineering Stage:
+
+- Managed and processed extensive cloud-stored data.
+- Designed a preprocessing pipeline for product inventory.
+- Improved product categorization using a logic-based approach and TF-IDF-based classifier.
+- Created a cabinet lifetime value model for performance assessment.
+  
+2. Artificial Intelligence Stage:
+
+- Enhanced cabinet intelligence through forecasting using LSTM models and ensemble methods.
+- Developed deep neural network-based models for propensity score.
+- Built collaborative filtering and hybrid recommender systems.
+- Utilized Bayesian statistics for dynamic pricing to optimize revenue and customer satisfaction.
+  
+**Tech Stack:** Databricks, MLFlow, Hugging Face (Open-source NLP library), Lanchain, Streamlit, 
+Azure Cloud Integration, Design Patterns Implementation, Azure AutoML SDK, LSTM Models for, Forecasting, Deep Neural Networks for Propensity Score, Scikit-Learn, Collaborative Filtering for Recommender Systems, Bayesian Statistics for Dynamic Pricing, Python, SQL, SnowFlake, GIT, Azure Cloud, Databricks, MongoDB
+
+### Data Scientist | TUI Global (_March 2021 - June 2022_)
+**Customer Life Time Value Project (Mar 2021 - Nov 2021):**
+
+- Goal: Develop a Customer Life Time Value model to inform business decisions.
+- Solution: Implemented probabilistic and Neural Network models using Lifetimes Python package.
+- Results stored in Snowflake; shared via Tableau dashboard.
+
+**Recommender Systems Project (Mar 2021 - Present):**
+
+- Goal: Personalize destination and hotel recommendations at the user level.
+- Solution: Built item-based collaborative filtering and user-based probabilistic models.
+- Utilized XGBoost for classifier model; recommendations sent via email.
+- Results stored in Snowflake; ongoing work on API deployment.
+  
+**Hotel Search Ranking Model Project (Mar 2021 - Present):**
+
+- Goal: Develop a hotel ranking solution using booking and clickstream data.
+- Solution: Stacked model combining booking and clickstream data.
+- Utilized RandomForest and XGBoost classifiers; results stored in MLFlow.
+- Model to be integrated into website's search section.
+
+**ML Pipeline Automation Package POC (Mar 2021 - Present):**
+
+- Goal: Automate daily machine learning workflows to free up time for other project tasks.
+- Solution: Developed flexible Python functions/classes covering all ML pipeline stages.
+- Output stored in MLFlow and local folders for easy access and analysis.
+
+**Tech Stack:** Lifetimes Python Package (Probabilistic modeling), Snowflake, Tableau, XGBoost, Stacked Model (Combining booking and clickstream data), Weighted Average Model, RandomForest, MLFlow (Model tracking), Python, SQL, Google Cloud, Amazon Web Services, GitLab, Google Cloud 
 
 ## Publications & Projects
 
