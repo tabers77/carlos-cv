@@ -107,5 +107,13 @@ Project Stages:
 # Talks & Lectures
 - TODO: ADD PODCAST 
 
+# Contact info:
+- **Email:** [tabers77@gmail.com](tabers77@gmail.com)
+- **GitHub:** [tabers77](https://github.com/tabers77) [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/tabers77)
+- **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/carlosdlc/)
+
+
+
+
 
 
