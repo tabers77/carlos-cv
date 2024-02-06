@@ -103,14 +103,30 @@ Project Stages:
 **Tech Stack:**  Snowflake, Tableau, Python, SQL, Google Cloud, Amazon Web Services, GitLab, Google Cloud, Google Data Studio
 
 
+## Guest Lecturer (Data Analytics/Pandas Programming) | Hyper Island (_December 2020_)
+I had the pleasure to be invited as a guest lecturer for one day to teach data analytics students of Hyper Island about the most modern techniques within data analysis with Pandas and Python. This was an incredible experience considering that the whole lecture was online due to the pandemic. I would love to have more opportunities to keep teaching students about the most high in demand skills within data analytics since I also have the opportunity to learn a lot.
+
+
+**Tech Stack:**  Python, Pandas, Jupyter Notebook
+
+## Data Analyst - E-commerce | Off The Wall (OTW) (_June 2017 - April 2019_)
+- Conducted web/marketing analysis, optimizing website performance and content.
+- Provided analytical support for business development and editorial teams.
+- Implemented A/B testing and conversion optimization strategies.
+- Managed Google Adwords campaigns, conducted keyword analysis, and developed reports from Google Analytics.
+- Utilized Google Tag Manager for tag management and analyzed SEO performance.
+- Applied advanced statistical techniques for predictive analysis.
+- Collaborated with social media team, managing ads, optimizing campaigns, and analyzing data using Facebook Analytics and Facebook pixel.
+
 
 # Talks & Lectures
 - TODO: ADD PODCAST 
 
 # Contact info:
 - **Email:** [tabers77@gmail.com](tabers77@gmail.com)
-- **GitHub:** [tabers77](https://github.com/tabers77) [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/tabers77)
+- **GitHub:** (https://github.com/tabers77) [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/tabers77)
 - **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/carlosdlc/)
+- **Digital Resume & Portfolio:** [[Digital Resume & Portfolio])](https://tabers77.github.io/carlos-cv/)
 
 
 
