@@ -5,43 +5,47 @@ I'm a Senior Data Scientist with 6 years of experience in NLP, Reinforcement Lea
 
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- Advance Machine Learning Specialisation | Higher School of Economics (_2020 - 2022_)								       		
+- Data Analysis/Statistics | Nackademin (_2015 - 2017_)	 			        		
+- International Relations | Stockholms University(_2010 - 2015_)
 
+### Courses & Specialisations  
+- Advance Machine Learning Specialisation | Higher School of Economics (_2020 - 2022_)								       		
+- [Natural Language Processing Specialisation (_2023_)](https://coursera.org/share/5155ae51c7b6ae9566525b2a19d40efa)
+
+    		
 ## Work Experience
 ### Senior Data Scientist | Stora Enso (_June 2022 - Present_)
 - Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
 - Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
   
-**Technical Skills: Python, SQL, AWS, Snowflake, MATLAB**
+**Tech Stack: Databricks, MLFlow, Hugging Face (Open-source NLP library), Lanchain, Streamlit, 
+Azure Cloud Integration, Design Patterns Implementation, Azure AutoML SDK, LSTM Models for, Forecasting, Deep Neural Networks for Propensity Score, Scikit-Learn, Collaborative Filtering for Recommender Systems, Bayesian Statistics for Dynamic Pricing, Python, SQL, SnowFlake, GIT, Azure Cloud, Databricks, MongoDB**
 
 **Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
 - Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
 - Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
 
-## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+## Publications & Projects
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+### Building Baseline Models with Design Patterns in ML (Part 1)
+[Publication](https://www.mdpi.com/1424-8220/22/8/3048](https://medium.com/@tabers77/building-baseline-models-with-design-patterns-in-ml-part-1-1b85b8dcc6cb))
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+This article delves into the art of developing baseline models for machine learning projects by leveraging design patterns. With a particular emphasis on enhancing code organization and usability, the author discusses a range of versatile patterns—including configurations, decorators, factory pattern, builder pattern, and template pattern—and explains how they contribute to superior code quality.
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+### Exploring Stable Diffusion in Google Colab using CUDA: A Step-by-Step Tutorial
+[Publication](https://pub.aimind.so/exploring-stable-diffusion-in-google-colab-using-cuda-a-step-by-step-tutorial-35452519fdeb)
 
-![Bike Study](/assets/img/bike_study.jpeg)
+### Hyperdimensional Computing: Taking AI to the Next Level by Emulating the Brain
+[Publication](https://medium.com/latinxinai/hyperdimensional-computing-taking-ai-to-the-next-level-by-emulating-the-brain-a79286581ca1)
+
+Explore the intersection of neuroscience and AI, and the potential of hyperdimensional computing in "A New Approach to Computation Reimagines AI.
+
+
 
 ## Talks & Lectures
 - TODO: ADD PODCAST 
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
 
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
 
-## Publications
-1. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
 
-- [Data Science Blog](https://medium.com/@shawhin)
