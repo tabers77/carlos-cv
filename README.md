@@ -16,19 +16,12 @@ I'm a **Senior Data Scientist** with **6 years** of experience in NLP, Reinforce
 3. Hyperdimensional Computing: Taking AI to the Next Level by Emulating the Brain. [Publication](https://medium.com/latinxinai/hyperdimensional-computing-taking-ai-to-the-next-level-by-emulating-the-brain-a79286581ca1)
 
 # Skills 
-### Programming Languages & Libraries:
--  Python, SQL, Pandas, NumPy, TensorFlow, PyTorch, Scikit-Learn, Lifetimes Python Package, MLFlow, Streamlit
-### NLP and generative AI:
-- Hugging Face (Open-source NLP library), NLTK
-### Machine Learning & Data Science:
-- Reinforcement Learning, Deep Learning (DL), Recommendation Systems, Model Optimization, Model Tracking, Time Series Modeling, Feature Engineering, Exploratory Data Analysis (EDA), Bayesian Statistics, Dynamic Pricing
-### Cloud Services: 
-- Snowflake, AWS (Amazon Web Services), Azure, GCP (Google Cloud Platform)
-### Development Tools & Version Control:
-- GIT, GitLab
-
-### Visualization Tools:
-- Tableau, Google Data Studio, Power BI
+- **Programming Languages & Libraries:** Python, SQL, Pandas, NumPy, TensorFlow, PyTorch, Scikit-Learn, Lifetimes Python Package, MLFlow, Streamlit
+- **NLP and generative AI:** Hugging Face (Open-source NLP library), NLTK
+- **Machine Learning & Data Science:** Reinforcement Learning, Deep Learning (DL), Recommendation Systems, Model Optimization, Model Tracking, Time Series Modeling, Feature Engineering, Exploratory Data Analysis (EDA), Bayesian Statistics, Dynamic Pricing
+- **Cloud Services:** Snowflake, AWS (Amazon Web Services), Azure, GCP (Google Cloud Platform)
+- **Development Tools & Version Control:** GIT, GitLab
+- **Visualization Tools:** Tableau, Google Data Studio, Power BI
 
 
 # Work Experience
