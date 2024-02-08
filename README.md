@@ -14,7 +14,23 @@ I'm a **Senior Data Scientist** with **6 years** of experience in NLP, Reinforce
 1. Building Baseline Models with Design Patterns in ML (Part 1). [Publication](https://medium.com/@tabers77/building-baseline-models-with-design-patterns-in-ml-part-1-1b85b8dcc6cb)
 2. Exploring Stable Diffusion in Google Colab using CUDA: A Step-by-Step Tutorial. [Publication](https://pub.aimind.so/exploring-stable-diffusion-in-google-colab-using-cuda-a-step-by-step-tutorial-35452519fdeb)
 3. Hyperdimensional Computing: Taking AI to the Next Level by Emulating the Brain. [Publication](https://medium.com/latinxinai/hyperdimensional-computing-taking-ai-to-the-next-level-by-emulating-the-brain-a79286581ca1)
-    		
+
+# Skills 
+### Programming Languages & Libraries:
+-  Python, SQL, Pandas, NumPy, TensorFlow, PyTorch, Scikit-Learn, Lifetimes Python Package, MLFlow, Streamlit
+### NLP and generative AI:
+- Hugging Face (Open-source NLP library), NLTK
+### Machine Learning & Data Science:
+- Reinforcement Learning, Deep Learning (DL), Recommendation Systems, Model Optimization, Model Tracking, Time Series Modeling, Feature Engineering, Exploratory Data Analysis (EDA), Bayesian Statistics, Dynamic Pricing
+### Cloud Services: 
+- Snowflake, AWS (Amazon Web Services), Azure, GCP (Google Cloud Platform)
+### Development Tools & Version Control:
+- GIT, GitLab
+
+### Visualization Tools:
+- Tableau, Google Data Studio, Power BI
+
+
 # Work Experience
 ## Senior Data Scientist | Stora Enso (_June 2022 - Present_)
 **AI Acceleration with Generative AI Project (January 2024 - Present):**
