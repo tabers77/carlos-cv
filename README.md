@@ -29,10 +29,25 @@ I'm a **Senior Data Scientist** with **6 years** of experience in NLP, Reinforce
 ## Senior Data Scientist | Stora Enso (_June 2022 - Present_)
 **AI Acceleration with Generative AI Project (January 2024 - Present):**
 
+1. Question and Answering Bots
+
 - Democratized generative AI capabilities company-wide.
-- Orchestrated chatbots using a mix of closed and open-source tools.
-- Integrated chatbots seamlessly into Azure cloud for scalability and optimal performance.
+- Orchestrated chatbots using a mix of closed and open-source tools such as Langchain & Hugging Face.
+- Implemented RAG (Retrieval-Augmented Generation) models to enhance chatbot performance and accuracy.
+- Seamlessly integrated chatbot solutions into the Azure cloud infrastructure, utilizing Azure Open AI for scalability and optimal performance.
+- Designed, developed, and deployed chatbots end-to-end, employing technologies including Flask, Langchain, Docker containers, Azure Open AI, PostgreSQL for vector storage, and the MSAL library for authentication.
   
+2. Reasoning in Large Language Models (LLMs) Research
+
+- Conducted experimental research to investigate reasoning capabilities within Large Language Models (LLMs), employing techniques such as reinforcement learning.
+- Stayed abreast of the latest advancements in generative AI by analyzing and synthesizing research papers for practical implementation.
+- Explored multi-agent solutions utilizing Langgraph and other innovative methodologies to advance research in the field.
+
+
+**Topic Modelling for Safety notifications(January 2024 - Present):**
+- Managed extensive volumes of safety notifications in textual format, utilizing topic modelling techniques to identify themes and generate clusters.
+- Employed models such as LDA, BERT, K-means, and hybrid variations to extract insights from the data efficiently.
+
 **Precision Forestry Project (August 2023 - December 2023):**
 
 - Optimized code structure using design patterns.
@@ -59,7 +74,7 @@ Project Stages:
 - Built collaborative filtering and hybrid recommender systems.
 - Utilized Bayesian statistics for dynamic pricing to optimize revenue and customer satisfaction.
   
-**Tech Stack:** Databricks, MLFlow, Hugging Face (Open-source NLP library), Lanchain, Streamlit, Azure AutoML SDK, Scikit-Learn, Python, SQL, SnowFlake, GIT, Azure Cloud, MongoDB
+**Tech Stack:** Databricks, MLFlow, Hugging Face (Open-source NLP library), Lanchain, Streamlit, Flask, Docker Containers, Azure Open AI, PostgreSQL, Azure AutoML SDK, Scikit-Learn, Python, SQL, SnowFlake, GIT, Azure Cloud, MongoDB
 
 ## Data Scientist | TUI Global (_March 2021 - June 2022_)
 **Customer Life Time Value Project (Mar 2021 - Nov 2021):**
