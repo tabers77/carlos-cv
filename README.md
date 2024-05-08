@@ -43,6 +43,7 @@ I'm a **Senior Data Scientist** with **6 years** of experience in NLP, Reinforce
 - Stayed abreast of the latest advancements in generative AI by analyzing and synthesizing research papers for practical implementation.
 - Explored multi-agent solutions utilizing Langgraph and other innovative methodologies to advance research in the field.
 
+Links : [Link to repository with demo examples of the implementation](https://github.com/tabers77/llms-experiments/tree/master) (Note that this project is still ongoing)
 
 **Topic Modelling for Safety notifications(January 2024 - Present):**
 - Managed extensive volumes of safety notifications in textual format, utilizing topic modelling techniques to identify themes and generate clusters.
