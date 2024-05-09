@@ -32,7 +32,7 @@ I'm a **Senior Data Scientist** with **6 years** of experience in NLP, Reinforce
 ## Senior Data Scientist | Stora Enso (_June 2022 - Present_)
 **AI Acceleration with Generative AI Project (January 2024 - Present):**
 
-1. Question and Answering Bots
+A) Question and Answering Bots
 
 - Democratized generative AI capabilities company-wide.
 - Orchestrated chatbots using a mix of closed and open-source tools such as Langchain & Hugging Face.
@@ -40,7 +40,7 @@ I'm a **Senior Data Scientist** with **6 years** of experience in NLP, Reinforce
 - Seamlessly integrated chatbot solutions into the Azure cloud infrastructure, utilizing Azure Open AI for scalability and optimal performance.
 - Designed, developed, and deployed chatbots end-to-end, employing technologies including Flask, Langchain, Docker containers, Azure Open AI, PostgreSQL for vector storage, and the MSAL library for authentication.
   
-2. Reasoning in Large Language Models (LLMs) Research
+B) Reasoning in Large Language Models (LLMs) Research
 
 - Conducted experimental research to investigate reasoning capabilities within Large Language Models (LLMs), employing techniques such as reinforcement learning.
 - Stayed abreast of the latest advancements in generative AI by analyzing and synthesizing research papers for practical implementation.
@@ -64,14 +64,14 @@ Leveraged AI to transform vending machines into AI-driven systems.
 Developed a patentable AI solution, currently in the process of being filed in the US.
 Project Stages:
 
-1. Analytics/Engineering Stage:
+A) Analytics/Engineering Stage:
 
 - Managed and processed extensive cloud-stored data.
 - Designed a preprocessing pipeline for product inventory.
 - Improved product categorization using a logic-based approach and TF-IDF-based classifier.
 - Created a cabinet lifetime value model for performance assessment.
   
-2. Artificial Intelligence Stage:
+B) Artificial Intelligence Stage:
 
 - Enhanced cabinet intelligence through forecasting using LSTM models and ensemble methods.
 - Developed deep neural network-based models for propensity score.
