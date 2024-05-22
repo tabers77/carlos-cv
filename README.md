@@ -20,12 +20,17 @@ I'm a **Senior Data Scientist** with **6 years** of experience in NLP, Reinforce
 4. Data Ethics and Responsible AI. [Podcast](https://open.spotify.com/episode/06YEoe6Th7FQtRQiASzTbD?si=608aea8b6c1e45b6)
 
 # Skills 
-- **Programming Languages & Libraries:** Python, SQL, Pandas, NumPy, TensorFlow, PyTorch, Scikit-Learn, Lifetimes Python Package, MLFlow, Streamlit
-- **NLP and generative AI:** Hugging Face (Open-source NLP library), NLTK
-- **Machine Learning & Data Science:** Reinforcement Learning, Deep Learning (DL), Recommendation Systems, Model Optimization, Model Tracking, Time Series Modeling, Feature Engineering, Exploratory Data Analysis (EDA), Bayesian Statistics, Dynamic Pricing
-- **Cloud Services:** Snowflake, AWS (Amazon Web Services), Azure, GCP (Google Cloud Platform)
-- **Development Tools & Version Control:** GIT, GitLab
-- **Visualization Tools:** Tableau, Google Data Studio, Power BI
+- **Programming Languages & Libraries:** Python, SQL, R, Pandas, NumPy, TensorFlow, PyTorch, Scikit-Learn, Lifetimes Python Package, MLFlow, Streamlit
+- **NLP and generative AI:** Hugging Face, NLTK, SpaCy
+- **Machine Learning & Data Science:** Reinforcement Learning, Deep Learning, Transfer Learning, Federated Learning, Recommendation Systems, Model Optimization, Model Tracking, Time Series Modeling, Feature Engineering, EDA, Bayesian Statistics, Dynamic Pricing
+- **Cloud Services:** Snowflake, AWS, Azure, GCP
+- **Development Tools & Version Control:** GIT, GitLab, JIRA, Trello, Asana
+- **Visualization Tools:** Tableau, Google Data Studio, Power BI, Looker, D3.js
+- **MLOps and Deployment:** CI/CD Pipelines, Kubernetes, Docker
+- **Big Data Technologies:** Apache Spark, Hadoop
+- **Data Governance and Compliance:** GDPR, CCPA
+- **Soft Skills:** Leadership, Team Management, Communication, Problem-Solving, Presentation Skills
+- **Experimentation and Testing:** A/B Testing, Experimentation Frameworks
 
 
 # Work Experience
