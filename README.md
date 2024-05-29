@@ -18,6 +18,7 @@ I'm a **Senior Data Scientist** with **6 years** of experience in NLP, Reinforce
 2. Exploring Stable Diffusion in Google Colab using CUDA: A Step-by-Step Tutorial. [Publication](https://pub.aimind.so/exploring-stable-diffusion-in-google-colab-using-cuda-a-step-by-step-tutorial-35452519fdeb)
 3. Hyperdimensional Computing: Taking AI to the Next Level by Emulating the Brain. [Publication](https://medium.com/latinxinai/hyperdimensional-computing-taking-ai-to-the-next-level-by-emulating-the-brain-a79286581ca1)
 4. Data Ethics and Responsible AI. [Podcast](https://open.spotify.com/episode/06YEoe6Th7FQtRQiASzTbD?si=608aea8b6c1e45b6)
+5. Building a Comprehensive RAG Application: Frontend and Backend Development with Azure OpenAI, Flask & LangChain. [Publication](https://medium.com/@tabers77/building-a-comprehensive-rag-application-frontend-and-backend-development-with-azure-openai-flask-3d293276cea2#9d1d)
 
 # Skills 
 - **Programming Languages & Libraries:** Python, SQL, R, Pandas, NumPy, TensorFlow, PyTorch, Scikit-Learn, Lifetimes Python Package, MLFlow, Streamlit
