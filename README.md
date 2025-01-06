@@ -2,7 +2,7 @@
 [Click here for the updated version of my CV](https://tabers77.github.io/carlos-cv/)
 
 # About Me
-I'm a **Senior Data Scientist** with **6 years** of experience in NLP, Reinforcement Learning, and Data Analytics. Skilled in technologies like Hugging Face, Lanchain, Streamlit, and cloud services (Snowflake, AWS, Azure, GCP). Proficient in ML, DL, and building Recommendation Systems. Adaptable to diverse data challenges, I excel in communication, bringing technical prowess and creativity to the team. Committed to delivering efficient, innovative code.
+I am a Senior Data Scientist with expertise in Natural Language Processing (NLP), Reinforcement Learning, and Data Analytics, building on a solid foundation since 2017. Skilled in technologies like Hugging Face, Lanchain, Streamlit, and cloud services (Snowflake, AWS, Azure, GCP). Proficient in ML, DL, and building Recommendation Systems. Adaptable to diverse data challenges, I excel in communication, bringing technical prowess and creativity to the team. Committed to delivering efficient, innovative code.
 
 # Education
 - Advance Machine Learning Specialisation | Higher School of Economics (_2020 - 2022_)								       		
