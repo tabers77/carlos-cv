@@ -1,7 +1,7 @@
 
 [Click here for the updated version of my CV](https://tabers77.github.io/carlos-cv/)
 
-# About Me
+# Profile Summary
 I am a Senior Data Scientist with expertise in Natural Language Processing (NLP), Reinforcement Learning, and Data Analytics, building on a solid foundation since 2017. Skilled in technologies like Hugging Face, Lanchain, Streamlit, and cloud services (Snowflake, AWS, Azure, GCP). Proficient in ML, DL, and building Recommendation Systems. Adaptable to diverse data challenges, I excel in communication, bringing technical prowess and creativity to the team. Committed to delivering efficient, innovative code.
 
 # Education
@@ -20,9 +20,9 @@ I am a Senior Data Scientist with expertise in Natural Language Processing (NLP)
 4. Data Ethics and Responsible AI. [Podcast](https://open.spotify.com/episode/06YEoe6Th7FQtRQiASzTbD?si=608aea8b6c1e45b6)
 5. Building a Comprehensive RAG Application: Frontend and Backend Development with Azure OpenAI, Flask & LangChain. [Publication](https://medium.com/@tabers77/building-a-comprehensive-rag-application-frontend-and-backend-development-with-azure-openai-flask-3d293276cea2#9d1d)
 
-# Skills 
+# Key Skills 
 - **Programming Languages & Libraries:** Python, SQL, R, Pandas, NumPy, TensorFlow, PyTorch, Scikit-Learn, Lifetimes Python Package, MLFlow, Streamlit
-- **NLP and generative AI:** Hugging Face, NLTK, SpaCy
+- **NLP and generative AI:** Hugging Face, NLTK, SpaCy, LangChain, LangGraph, AutoGen
 - **Machine Learning & Data Science:** Reinforcement Learning, Deep Learning, Transfer Learning, Federated Learning, Recommendation Systems, Model Optimization, Model Tracking, Time Series Modeling, Feature Engineering, EDA, Bayesian Statistics, Dynamic Pricing
 - **Cloud Services:** Snowflake, AWS, Azure, GCP
 - **Development Tools & Version Control:** GIT, GitLab, JIRA, Trello, Asana
@@ -36,21 +36,22 @@ I am a Senior Data Scientist with expertise in Natural Language Processing (NLP)
 
 # Work Experience
 ## Senior Data Scientist | Stora Enso (_June 2022 - Present_)
+
+**AI Negotiation Agent for Stora Enso (2024- Present)**
+
+- Leveraged Microsoft Autogen to orchestrate Python-based generative AI workflows across two specialized sub-agents.
+- Engineered FinanceExpert using RAG with vector storage (PostgreSQL) to analyze internal sales & margin data and generate pricing models.
+- Built CustomerResearcher combining external market-intelligence APIs and web-scraped reports via RAG-enhanced LLMs to map competitor & customer trends.
+- Employed prompt engineering and fine-tuned LLMs to craft dynamic pricing scenarios, data-driven arguments, and counter-arguments.
+- Deployed end-to-end on Azure (OpenAI Service, Functions, Docker) for secure, scalable generative AI integration.
+- Delivered structured negotiation playbooks that translate raw data into actionable price strategies and insights.
+
 **AI Acceleration with Generative AI Project (January 2024 - Present):**
 
-A) Question and Answering Bots
-
-- Democratized generative AI capabilities company-wide.
-- Orchestrated chatbots using a mix of closed and open-source tools such as Langchain & Hugging Face.
-- Implemented RAG (Retrieval-Augmented Generation) models to enhance chatbot performance and accuracy.
-- Seamlessly integrated chatbot solutions into the Azure cloud infrastructure, utilizing Azure Open AI for scalability and optimal performance.
-- Designed, developed, and deployed chatbots end-to-end, employing technologies including Flask, Langchain, Docker containers, Azure Open AI, PostgreSQL for vector storage, and the MSAL library for authentication.
-  
-B) Reasoning in Large Language Models (LLMs) Research
-
-- Conducted experimental research to investigate reasoning capabilities within Large Language Models (LLMs), employing techniques such as reinforcement learning.
-- Stayed abreast of the latest advancements in generative AI by analyzing and synthesizing research papers for practical implementation.
-- Explored multi-agent solutions utilizing Langgraph and other innovative methodologies to advance research in the field.
+- Built and deployed company-wide Q&A chatbots using LangChain, Hugging Face, Azure OpenAI, and RAG models.
+- Led end-to-end development of scalable AI solutions with Flask, Docker, PostgreSQL, and Azure cloud.
+- Researched LLM reasoning and multi-agent systems, applying reinforcement learning and LangGraph for innovation.
+- Synthesized cutting-edge research into practical, production-ready generative AI applications.
 
 Links : [Link to repository with demo examples of the implementation](https://github.com/tabers77/llms-experiments/tree/master) (Note that this project is still ongoing)
 
