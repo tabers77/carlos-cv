@@ -55,7 +55,7 @@ I am a Senior Data Scientist with expertise in Natural Language Processing (NLP)
 
 Links : [Link to repository with demo examples of the implementation](https://github.com/tabers77/llms-experiments/tree/master) (Note that this project is still ongoing)
 
-**Topic Modelling for Safety notifications(January 2024 - Present):**
+**Topic Modelling for Safety notifications(January 2024 - December 2024):**
 - Managed extensive volumes of safety notifications in textual format, utilizing topic modelling techniques to identify themes and generate clusters.
 - Employed models such as LDA, BERT, K-means, and hybrid variations to extract insights from the data efficiently.
 
