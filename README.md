@@ -2,7 +2,7 @@
 [Click here for the updated version of my CV](https://tabers77.github.io/carlos-cv/)
 
 # Profile Summary
-I am a Senior Data Scientist with expertise in Natural Language Processing (NLP), Reinforcement Learning, and Data Analytics, building on a solid foundation since 2017. Skilled in technologies like Hugging Face, Lanchain, Streamlit, and cloud services (Snowflake, AWS, Azure, GCP). Proficient in ML, DL, and building Recommendation Systems. Adaptable to diverse data challenges, I excel in communication, bringing technical prowess and creativity to the team. Committed to delivering efficient, innovative code.
+Senior Data Scientist with 6+ years of experience transforming large-scale data into actionable insights for e-commerce and enterprise SaaS. Specialized in building and deploying scalable ML/AI solutions—including recommendation engines, RAG/LLM pipelines, and time-series forecasting—in cloud environments to drive revenue growth, automation, and operational efficiency.
 
 # Education
 - Advance Machine Learning Specialisation | Higher School of Economics (_2020 - 2022_)								       		
@@ -30,8 +30,13 @@ I am a Senior Data Scientist with expertise in Natural Language Processing (NLP)
 - **MLOps and Deployment:** CI/CD Pipelines, Kubernetes, Docker
 - **Big Data Technologies:** Apache Spark, Hadoop
 - **Data Governance and Compliance:** GDPR, CCPA
-- **Soft Skills:** Leadership, Team Management, Communication, Problem-Solving, Presentation Skills
 - **Experimentation and Testing:** A/B Testing, Experimentation Frameworks
+
+## Soft Skills
+- Effective mentor to junior data scientists, interns, and university students, helping them develop skills in Python, ML fundamentals, and production workflows.
+- Strong stakeholder communication, translating complex technical concepts into actionable business insights.
+- Leadership experience in guiding project direction, reviewing code, and ensuring best practices across teams.
+- Adaptability in fast-paced environments with changing priorities and emerging technologies.
 
 
 # Work Experience
