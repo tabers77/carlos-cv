@@ -9,23 +9,27 @@ jobs:
   render:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
       - name: Install Pandoc
-        run: sudo apt-get install -y pandoc
+        run: sudo apt-get update && sudo apt-get install -y pandoc
 
       - name: Install wkhtmltopdf
         run: sudo apt-get install -y wkhtmltopdf
 
       - name: Convert Markdown to PDF
-        run: pandoc index.md -o generated/Carlos_Taberner_Resume.pdf --pdf-engine=wkhtmltopdf
+        run: |
+          mkdir -p generated
+          pandoc index.md -o generated/Carlos_Taberner_Resume.pdf --pdf-engine=wkhtmltopdf
 
+      # ✅ Optional: keep this if you want the artifact in the Actions UI
       - name: Upload artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: cv-pdf
           path: generated/Carlos_Taberner_Resume.pdf
 
+      # ✅ Commit the PDF back to the repo so GitHub Pages can serve it
       - name: Commit PDF back to repo
         run: |
           git config user.email "actions@github.com"
