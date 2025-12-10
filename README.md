@@ -1,6 +1,4 @@
 
-[Click here for the updated version of my CV](https://tabers77.github.io/carlos-cv/)
-
 [📄 **Download Latest PDF Resume**](generated/Carlos_Taberner_Resume.pdf)
 
 # Profile Summary
