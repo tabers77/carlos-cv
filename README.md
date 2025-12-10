@@ -1,6 +1,8 @@
 
 [Click here for the updated version of my CV](https://tabers77.github.io/carlos-cv/)
 
+[📄 **Download Latest PDF Resume**](generated/Carlos_Taberner_Resume.pdf)
+
 # Profile Summary
 Senior Data Scientist with 6+ years of experience transforming large-scale data into actionable insights for e-commerce and enterprise SaaS. Specialized in building and deploying scalable ML/AI solutions—including recommendation engines, RAG/LLM pipelines, and time-series forecasting—in cloud environments to drive revenue growth, automation, and operational efficiency.
 
