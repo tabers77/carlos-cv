@@ -1,0 +1,35 @@
+name: Build PDF Resume
+
+on:
+  push:
+    paths:
+      - '**.md'
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Install Pandoc
+        run: sudo apt-get install -y pandoc
+
+      - name: Install wkhtmltopdf
+        run: sudo apt-get install -y wkhtmltopdf
+
+      - name: Convert Markdown to PDF
+        run: pandoc index.md -o generated/Carlos_Taberner_Resume.pdf --pdf-engine=wkhtmltopdf
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: cv-pdf
+          path: generated/Carlos_Taberner_Resume.pdf
+
+      - name: Commit PDF back to repo
+        run: |
+          git config user.email "actions@github.com"
+          git config user.name "GitHub Actions"
+          git add generated/Carlos_Taberner_Resume.pdf
+          git commit -m "Auto-update PDF" || echo "No changes to commit"
+          git push
