@@ -21,7 +21,8 @@ Senior Data Scientist with 6+ years of experience transforming large-scale data 
 5. Building a Comprehensive RAG Application: Frontend and Backend Development with Azure OpenAI, Flask & LangChain. [Publication](https://medium.com/@tabers77/building-a-comprehensive-rag-application-frontend-and-backend-development-with-azure-openai-flask-3d293276cea2#9d1d)
 
 More of my articles can be found on my blog:
-https://medium.com/@tabers77
+[Link to my blog](https://medium.com/@tabers77)
+
 
 # Key Skills 
 - **Programming Languages & Libraries:** Python, SQL, R, Pandas, NumPy, TensorFlow, PyTorch, Scikit-Learn, Lifetimes Python Package, MLFlow, Streamlit
