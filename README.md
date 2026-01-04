@@ -44,7 +44,18 @@ More of my articles can be found on my blog:
 
 
 # Work Experience
-## Senior Data Scientist | Stora Enso (_June 2022 - Present_)
+
+## Lead Data Scientist – AI Initiatives | Stora Enso (_January 2025 - Present_)
+
+- Act as a full-time AI expert advising across multiple Stora Enso projects, guiding teams from problem definition through PoC development and production deployment.
+- Lead technical design and model selection for AI initiatives, ensuring solutions are robust, scalable, and aligned with business objectives.
+- Collaborate closely with engineers, data scientists, and engineering leadership to translate complex business challenges into practical AI solutions.
+- Mentor data scientists and engineers through code reviews, architectural guidance, and best-practice recommendations, accelerating team delivery and technical maturity.
+- Evaluate tools, frameworks, and vendors for AI and ML use cases, enabling informed and sustainable technology decisions.
+- Establish AI standards and best practices across projects, improving consistency, reliability, and maintainability of AI solutions.
+- Support the transition of AI initiatives from early exploration to validated PoCs and production-ready systems, reducing delivery risk and time-to-value.
+
+## Senior Data Scientist | Stora Enso (_June 2022 - 2025)
 
 **AI Negotiation Agent for Stora Enso (2024- Present)**
 
@@ -55,7 +66,7 @@ More of my articles can be found on my blog:
 - Deployed end-to-end on Azure (OpenAI Service, Functions, Docker) for secure, scalable generative AI integration.
 - Delivered structured negotiation playbooks that translate raw data into actionable price strategies and insights.
 
-**AI Acceleration with Generative AI Project (January 2024 - Present):**
+**AI Acceleration with Generative AI Project (January 2024 - 2025):**
 
 - Built and deployed company-wide Q&A chatbots using LangChain, Hugging Face, Azure OpenAI, and RAG models.
 - Led end-to-end development of scalable AI solutions with Flask, Docker, PostgreSQL, and Azure cloud.
