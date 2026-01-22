@@ -176,6 +176,7 @@ I had the pleasure to be invited as a guest lecturer for one day to teach data a
 # Contact info:
 - **Email:** [tabers77@gmail.com](tabers77@gmail.com)
 - **GitHub:** [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/tabers77)
+- **Data Science Portfolio:** [GitHub Repository](https://github.com/tabers77/data-science-portfolio)
 - **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/carlosdlc/)
 - **Digital Resume & Portfolio:** [[Digital Resume & Portfolio])](https://tabers77.github.io/carlos-cv/)
 
