@@ -59,12 +59,19 @@ More of my articles can be found on my blog:
 
 **AI Negotiation Agent for Stora Enso (2024- Present)**
 
-- Leveraged Microsoft Autogen to orchestrate Python-based generative AI workflows across two specialized sub-agents.
-- Engineered FinanceExpert using RAG with vector storage (PostgreSQL) to analyze internal sales & margin data and generate pricing models.
-- Built CustomerResearcher combining external market-intelligence APIs and web-scraped reports via RAG-enhanced LLMs to map competitor & customer trends.
-- Employed prompt engineering and fine-tuned LLMs to craft dynamic pricing scenarios, data-driven arguments, and counter-arguments.
-- Deployed end-to-end on Azure (OpenAI Service, Functions, Docker) for secure, scalable generative AI integration.
-- Delivered structured negotiation playbooks that translate raw data into actionable price strategies and insights.
+Building a production multi-agent AI system that powers B2B pricing negotiations for a global enterprise (~€10B   
+  revenue). The system orchestrates 5+ specialized LLM agents — each with domain-specific tools, data sources, and  
+  fact-checking — to deliver data-driven negotiation strategies in real time.
+  
+  Key technical work:
+  - Custom multi-agent orchestrator extending Microsoft's Magentic-One framework
+  - Hallucination detection pipeline that verifies agent claims against source data
+  - RAG system with PGVector for semantic search over financial reports, news, and customer documents
+  - Snowflake → PostgreSQL data pipeline serving profitability analytics to agent tools
+  - Evaluation framework with LLM judges, RAGAS, and reinforcement-learning reward models
+  - Enterprise deployment on Azure (OpenAI, Key Vault, Managed Identity, Docker)
+
+  Stack: Python, FastAPI, AutoGen, PostgreSQL/PGVector, Snowflake, Azure, Docker
 
 **AI Acceleration with Generative AI Project (January 2024 - 2025):**
 
