@@ -9,7 +9,7 @@ jobs:
   render:
     runs-on: ubuntu-latest
     permissions:
-      contents: write  # needed so the workflow can push changes
+      contents: write
 
     steps:
       - name: Checkout repo
@@ -27,12 +27,12 @@ jobs:
       - name: Convert Markdown to PDF
         run: |
           mkdir -p generated
-          pandoc README.md -o generated/Carlos_Taberner_Resume.pdf --pdf-engine=wkhtmltopdf
+          pandoc README.md -o generated/Carlos_De_La_Cruz_Resume.pdf --pdf-engine=wkhtmltopdf
 
       - name: Commit PDF back to repo
         run: |
           git config user.email "actions@github.com"
           git config user.name "GitHub Actions"
-          git add generated/Carlos_Taberner_Resume.pdf
+          git add generated/Carlos_De_La_Cruz_Resume.pdf
           git commit -m "Auto-update PDF" || echo "No changes to commit"
           git push
