@@ -1,194 +1,103 @@
+# Carlos De La Cruz
 
-[📄 **Download Latest PDF Resume**](generated/Carlos_Taberner_Resume.pdf)
+**Senior Data Scientist | Applied AI, Agentic Systems & ML Products**
 
-# Profile Summary
-Senior Data Scientist with 8+ years of experience transforming large-scale data into actionable insights for e-commerce and enterprise SaaS. Specialized in building and deploying scalable ML/AI solutions—including recommendation engines, RAG/LLM pipelines, and time-series forecasting—in cloud environments to drive revenue growth, automation, and operational efficiency.
+[Email](mailto:tabers77@gmail.com) · [LinkedIn](https://www.linkedin.com/in/carlosdlc/) · [GitHub](https://github.com/tabers77) · [Technical writing](https://medium.com/@tabers77)
 
-# Education
-- Advance Machine Learning Specialisation | Higher School of Economics (_2020 - 2022_)								       		
-- Data Analysis/Statistics | Nackademin (_2015 - 2017_)	 			        		
-- International Relations | Stockholms University (_2010 - 2015_)
+[Download PDF resume](generated/Carlos_De_La_Cruz_Resume.pdf)
 
-### Courses & Specialisations  
-- Advance Machine Learning Specialisation | Higher School of Economics (_2020 - 2022_)								       		
-- [Natural Language Processing Specialisation (_2023_)](https://coursera.org/share/5155ae51c7b6ae9566525b2a19d40efa)
+## Profile
 
-# Publications, Projects & Podcasts
-1. Building Baseline Models with Design Patterns in ML (Part 1). [Publication](https://medium.com/@tabers77/building-baseline-models-with-design-patterns-in-ml-part-1-1b85b8dcc6cb)
-2. Exploring Stable Diffusion in Google Colab using CUDA: A Step-by-Step Tutorial. [Publication](https://pub.aimind.so/exploring-stable-diffusion-in-google-colab-using-cuda-a-step-by-step-tutorial-35452519fdeb)
-3. Hyperdimensional Computing: Taking AI to the Next Level by Emulating the Brain. [Publication](https://medium.com/latinxinai/hyperdimensional-computing-taking-ai-to-the-next-level-by-emulating-the-brain-a79286581ca1)
-4. Data Ethics and Responsible AI. [Podcast](https://open.spotify.com/episode/06YEoe6Th7FQtRQiASzTbD?si=608aea8b6c1e45b6)
-5. Building a Comprehensive RAG Application: Frontend and Backend Development with Azure OpenAI, Flask & LangChain. [Publication](https://medium.com/@tabers77/building-a-comprehensive-rag-application-frontend-and-backend-development-with-azure-openai-flask-3d293276cea2#9d1d)
+Senior Data Scientist and AI technical lead with 8+ years of experience taking machine-learning and applied-AI initiatives from problem framing and model selection through production delivery. Recent work includes production multi-agent systems, RAG applications for sensitive enterprise knowledge, LLM evaluation, forecasting, recommendation systems and dynamic pricing. Combines hands-on Python and cloud engineering with technical leadership, mentoring and clear communication with business and engineering stakeholders.
 
-More of my articles can be found on my blog:
-[Link to my blog](https://medium.com/@tabers77)
+## Core expertise
 
+- **Applied AI and GenAI:** LLM applications, agent orchestration, RAG, prompt engineering, LLM evaluation, NLP and semantic search
+- **Machine learning:** forecasting, recommendation systems, ranking, classification, deep learning, experimentation and Bayesian methods
+- **Engineering and MLOps:** Python, SQL, FastAPI, Flask, Docker, CI/CD, MLflow, PostgreSQL/PGVector and Git
+- **Cloud and data:** Azure OpenAI, Azure, Databricks, Snowflake, GCP and AWS
+- **Frameworks:** AutoGen, LangGraph, LangChain, Hugging Face, PyTorch, TensorFlow and scikit-learn
+- **Leadership:** technical direction, architecture decisions, mentoring, code review, stakeholder communication and production handover
 
-# Key Skills 
-- **Programming Languages & Libraries:** Python, SQL, R, Pandas, NumPy, TensorFlow, PyTorch, Scikit-Learn, Lifetimes Python Package, MLFlow, Streamlit
-- **NLP and generative AI:** Hugging Face, NLTK, SpaCy, LangChain, LangGraph, AutoGen
-- **Machine Learning & Data Science:** Reinforcement Learning, Deep Learning, Transfer Learning, Federated Learning, Recommendation Systems, Model Optimization, Model Tracking, Time Series Modeling, Feature Engineering, EDA, Bayesian Statistics, Dynamic Pricing
-- **Cloud Services:** Snowflake, AWS, Azure, GCP
-- **Development Tools & Version Control:** GIT, GitLab, JIRA, Trello, Asana
-- **Visualization Tools:** Tableau, Google Data Studio, Power BI, Looker, D3.js
-- **MLOps and Deployment:** CI/CD Pipelines, Kubernetes, Docker
-- **Big Data Technologies:** Apache Spark, Hadoop
-- **Data Governance and Compliance:** GDPR, CCPA
-- **Experimentation and Testing:** A/B Testing, Experimentation Frameworks
+## Experience
 
-## Soft Skills
-- Effective mentor to junior data scientists, interns, and university students, helping them develop skills in Python, ML fundamentals, and production workflows.
-- Strong stakeholder communication, translating complex technical concepts into actionable business insights.
-- Leadership experience in guiding project direction, reviewing code, and ensuring best practices across teams.
-- Adaptability in fast-paced environments with changing priorities and emerging technologies.
+### Lead Data Scientist — AI Initiatives | Stora Enso
+*January 2025 – Present*
 
+- Provide technical leadership across AI initiatives, guiding teams from problem definition and model selection through validation and production delivery.
+- Define solution architectures and engineering practices for scalable, maintainable and responsible AI systems.
+- Collaborate with data scientists, software engineers, engineering leaders and business stakeholders to turn ambiguous needs into practical AI solutions.
+- Mentor data scientists and engineers through architectural guidance, code reviews and production-oriented development practices.
+- Evaluate frameworks, models and vendors and translate technical trade-offs into recommendations for technical and non-technical stakeholders.
 
-# Work Experience
+### Senior Data Scientist | Stora Enso
+*June 2022 – 2025*
 
-## Lead Data Scientist – AI Initiatives | Stora Enso (_January 2025 - Present_)
+#### Production multi-agent decision-support system
 
-- Act as a full-time AI expert advising across multiple Stora Enso projects, guiding teams from problem definition through PoC development and production deployment.
-- Lead technical design and model selection for AI initiatives, ensuring solutions are robust, scalable, and aligned with business objectives.
-- Collaborate closely with engineers, data scientists, and engineering leadership to translate complex business challenges into practical AI solutions.
-- Mentor data scientists and engineers through code reviews, architectural guidance, and best-practice recommendations, accelerating team delivery and technical maturity.
-- Evaluate tools, frameworks, and vendors for AI and ML use cases, enabling informed and sustainable technology decisions.
-- Establish AI standards and best practices across projects, improving consistency, reliability, and maintainability of AI solutions.
-- Support the transition of AI initiatives from early exploration to validated PoCs and production-ready systems, reducing delivery risk and time-to-value.
+- Designed and deployed a production multi-agent AI system supporting commercial negotiations at a global enterprise.
+- Built a custom orchestrator extending Microsoft's Magentic-One pattern and coordinating 5+ specialised agents with domain tools and data sources.
+- Implemented RAG with PostgreSQL/PGVector, a Snowflake-to-PostgreSQL data pipeline and verification mechanisms for claims generated by agents.
+- Developed an evaluation approach using LLM judges, RAGAS and reinforcement-learning-based signals.
+- The system has been used by around 10 stakeholders, including decision-makers, and its outputs have supported formal negotiations.
 
-## Senior Data Scientist | Stora Enso (_June 2022 - 2025)
+**Stack:** Python, FastAPI, AutoGen, PostgreSQL/PGVector, Snowflake, Azure OpenAI, Azure, Docker
 
-**AI Negotiation Agent for Stora Enso (2024- Present)**
+#### Production RAG applications for enterprise knowledge
 
-Building a production multi-agent AI system that powers B2B pricing negotiations for a global enterprise (~€10B   
-  revenue). The system orchestrates 5+ specialized LLM agents — each with domain-specific tools, data sources, and  
-  fact-checking — to deliver data-driven negotiation strategies in real time.
-  
-  Key technical work:
-  - Custom multi-agent orchestrator extending Microsoft's Magentic-One framework
-  - Hallucination detection pipeline that verifies agent claims against source data
-  - RAG system with PGVector for semantic search over financial reports, news, and customer documents
-  - Snowflake → PostgreSQL data pipeline serving profitability analytics to agent tools
-  - Evaluation framework with LLM judges, RAGAS, and reinforcement-learning reward models
-  - Enterprise deployment on Azure (OpenAI, Key Vault, Managed Identity, Docker)
+- Designed and delivered production RAG solutions supporting internal teams, including a protected use case that enabled employees to interact with legal documents.
+- Led end-to-end implementation with LangChain, Hugging Face, Azure OpenAI, Flask, Docker, PostgreSQL and Azure.
 
-  Stack: Python, FastAPI, AutoGen, PostgreSQL/PGVector, Snowflake, Azure, Docker
+#### Self-service retail ML products
 
-**AI Acceleration with Generative AI Project (January 2024 - 2025):**
+- Generated the product ideas and developed forecasting, recommendation and dynamic-pricing models for AI-enabled unattended retail systems.
+- Delivered the forecasting capability to production using LSTM and ensemble approaches.
+- Built collaborative-filtering and hybrid recommender systems and explored Bayesian methods for pricing decisions.
+- Was recognised internally as an inventor in a company patent initiative; the US patent process is no longer active.
 
-- Built and deployed company-wide Q&A chatbots using LangChain, Hugging Face, Azure OpenAI, and RAG models.
-- Led end-to-end development of scalable AI solutions with Flask, Docker, PostgreSQL, and Azure cloud.
-- Researched LLM reasoning and multi-agent systems, applying reinforcement learning and LangGraph for innovation.
-- Synthesized cutting-edge research into practical, production-ready generative AI applications.
+**Stack:** Databricks, MLflow, Azure AutoML, scikit-learn, Python, SQL, Snowflake, MongoDB, Azure
 
-Links : [Link to repository with demo examples of the implementation](https://github.com/tabers77/llms-experiments/tree/master) (Note that this project is still ongoing)
+#### Additional applied-ML work
 
-**Topic Modelling for Safety notifications(January 2024 - December 2024):**
-- Managed extensive volumes of safety notifications in textual format, utilizing topic modelling techniques to identify themes and generate clusters.
-- Employed models such as LDA, BERT, K-means, and hybrid variations to extract insights from the data efficiently.
+- Applied LDA, BERT, K-means and hybrid approaches to identify themes in safety-notification text.
+- Refactored regression workflows and implemented Azure AutoML SDK for a precision-forestry initiative.
 
-**Precision Forestry Project (August 2023 - December 2023):**
+### Data Scientist | TUI Global
+*March 2021 – June 2022*
 
-- Optimized code structure using design patterns.
-- Refactored regression models and implemented Azure AutoML SDK.
-- Streamlined development processes, enhancing overall codebase efficiency.
-  
-**Selfly Store Project (June 2022 - June 2023):**
-  
-Leveraged AI to transform vending machines into AI-driven systems.
-Developed a patentable AI solution, currently in the process of being filed in the US.
-Project Stages:
+- Developed customer-lifetime-value models using probabilistic and neural-network approaches; delivered results through Snowflake and Tableau.
+- Built collaborative-filtering, probabilistic and XGBoost models for personalised destination and hotel recommendations.
+- Developed a hotel-search ranking solution combining booking and clickstream signals, with experiment tracking in MLflow.
+- Created reusable Python components for automating machine-learning workflows and outputs.
 
-A) Analytics/Engineering Stage:
+### Data Science & Data Analytics | TUI Nordics
+*April 2019 – March 2021*
 
-- Managed and processed extensive cloud-stored data.
-- Designed a preprocessing pipeline for product inventory.
-- Improved product categorization using a logic-based approach and TF-IDF-based classifier.
-- Created a cabinet lifetime value model for performance assessment.
-  
-B) Artificial Intelligence Stage:
+- Built attribution, customer-segmentation, recommendation and time-series models for e-commerce and marketing decisions.
+- Used Python, SQL and BigQuery to analyse customer and web behaviour and translate findings into stakeholder recommendations.
+- Created monitoring and decision-support dashboards with Tableau and Google Data Studio.
 
-- Enhanced cabinet intelligence through forecasting using LSTM models and ensemble methods.
-- Developed deep neural network-based models for propensity score.
-- Built collaborative filtering and hybrid recommender systems.
-- Utilized Bayesian statistics for dynamic pricing to optimize revenue and customer satisfaction.
-  
-**Tech Stack:** Databricks, MLFlow, Hugging Face (Open-source NLP library), Lanchain, Streamlit, Flask, Docker Containers, Azure Open AI, PostgreSQL, Azure AutoML SDK, Scikit-Learn, Python, SQL, SnowFlake, GIT, Azure Cloud, MongoDB
+### Guest Lecturer — Data Analytics and Pandas | Hyper Island
+*December 2020*
 
-## Data Scientist | TUI Global (_March 2021 - June 2022_)
-**Customer Life Time Value Project (Mar 2021 - Nov 2021):**
+- Delivered an online guest lecture for data-analytics students on modern analysis workflows with Python and pandas.
 
-- Goal: Develop a Customer Life Time Value model to inform business decisions.
-- Solution: Implemented probabilistic and Neural Network models using Lifetimes Python package.
-- Results stored in Snowflake; shared via Tableau dashboard.
+### Data Analyst — E-commerce | Off The Wall
+*June 2017 – April 2019*
 
-**Recommender Systems Project (Mar 2021 - Oct 2021):**
+- Conducted web, marketing and conversion analysis and supported experimentation, SEO and campaign optimisation.
 
-- Goal: Personalize destination and hotel recommendations at the user level.
-- Solution: Built item-based collaborative filtering and user-based probabilistic models.
-- Utilized XGBoost for classifier model; recommendations sent via email.
-- Results stored in Snowflake; ongoing work on API deployment.
-  
-**Hotel Search Ranking Model Project (Mar 2021 - Jan 2022):**
+## Selected publications and public work
 
-- Goal: Develop a hotel ranking solution using booking and clickstream data.
-- Solution: Stacked model combining booking and clickstream data.
-- Utilized RandomForest and XGBoost classifiers; results stored in MLFlow.
-- Model to be integrated into website's search section.
+- [Building a Comprehensive RAG Application with Azure OpenAI, Flask and LangChain](https://medium.com/@tabers77/building-a-comprehensive-rag-application-frontend-and-backend-development-with-azure-openai-flask-3d293276cea2)
+- [Building Baseline Models with Design Patterns in ML](https://medium.com/@tabers77/building-baseline-models-with-design-patterns-in-ml-part-1-1b85b8dcc6cb)
+- [Hyperdimensional Computing: Taking AI to the Next Level by Emulating the Brain](https://medium.com/latinxinai/hyperdimensional-computing-taking-ai-to-the-next-level-by-emulating-the-brain-a79286581ca1)
+- [Data Ethics and Responsible AI — podcast](https://open.spotify.com/episode/06YEoe6Th7FQtRQiASzTbD?si=608aea8b6c1e45b6)
+- [Data-science portfolio](https://github.com/tabers77/data-science-portfolio)
 
-**ML Pipeline Automation Package POC (Mar 2021 - June 2022):**
+## Education and selected specialisations
 
-- Goal: Automate daily machine learning workflows to free up time for other project tasks.
-- Solution: Developed flexible Python functions/classes covering all ML pipeline stages.
-- Output stored in MLFlow and local folders for easy access and analysis.
-
-**Tech Stack:** Lifetimes Python Package (Probabilistic modeling), Snowflake, Tableau, XGBoost, MLFlow (Model tracking), Python, SQL, Google Cloud, Amazon Web Services, GitLab
-
-## Data Science & Data Analytics | TUI Nordics (_April 2019 - March 2021_)
-
-**Machine Learning & Data Science:**
-
-- Built attribution models using Markov chains for revenue allocation and optimization.
-- Conducted customer segmentation via RFM key metrics: recency, frequency, and monetary value.
-- Implemented classification and regression algorithms such as KNN, Random Forest, and XGBoost.
-- Engaged in error monitoring, feature engineering, and exploratory data analysis.
-- Developed recommendation engines and evaluated recommender systems.
-- Applied time series modeling techniques including LSTM, XGBoost, and ARIMA variations.
-
-**Data/Web Analysis:**
-
-- Provided weekly reporting and analysis to stakeholders for website optimization.
-- Utilized SQL (BigQuery) and Python for data analysis.
-- Extracted specific data from databases using SQL and analyzed further using Python, Jupyter Notebooks, and PyCharm.
-- Created data monitoring dashboards using Google Data Studio or Tableau based on task objectives.
-
-**Tech Stack:**  Snowflake, Tableau, Python, SQL, Google Cloud, Amazon Web Services, GitLab, Google Cloud, Google Data Studio
-
-
-## Guest Lecturer (Data Analytics/Pandas Programming) | Hyper Island (_December 2020_)
-I had the pleasure to be invited as a guest lecturer for one day to teach data analytics students of Hyper Island about the most modern techniques within data analysis with Pandas and Python. This was an incredible experience considering that the whole lecture was online due to the pandemic. I would love to have more opportunities to keep teaching students about the most high in demand skills within data analytics since I also have the opportunity to learn a lot.
-
-
-**Tech Stack:**  Python, Pandas, Jupyter Notebook
-
-## Data Analyst - E-commerce | Off The Wall (OTW) (_June 2017 - April 2019_)
-- Conducted web/marketing analysis, optimizing website performance and content.
-- Provided analytical support for business development and editorial teams.
-- Implemented A/B testing and conversion optimization strategies.
-- Managed Google Adwords campaigns, conducted keyword analysis, and developed reports from Google Analytics.
-- Utilized Google Tag Manager for tag management and analyzed SEO performance.
-- Applied advanced statistical techniques for predictive analysis.
-- Collaborated with social media team, managing ads, optimizing campaigns, and analyzing data using Facebook Analytics and Facebook pixel.
-
-
-# Contact info:
-- **Email:** [tabers77@gmail.com](tabers77@gmail.com)
-- **GitHub:** [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/tabers77)
-- **Data Science Portfolio:** [GitHub Repository](https://github.com/tabers77/data-science-portfolio)
-- **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/carlosdlc/)
-- **Digital Resume & Portfolio:** [[Digital Resume & Portfolio])](https://tabers77.github.io/carlos-cv/)
-
-
-
-
-
-
+- Advanced Machine Learning Specialisation | Higher School of Economics, 2020–2022
+- Data Analysis and Statistics | Nackademin, 2015–2017
+- International Relations | Stockholm University, 2010–2015
+- [Natural Language Processing Specialisation](https://coursera.org/share/5155ae51c7b6ae9566525b2a19d40efa), 2023
