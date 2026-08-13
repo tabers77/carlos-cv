@@ -2,7 +2,7 @@
 [📄 **Download Latest PDF Resume**](generated/Carlos_Taberner_Resume.pdf)
 
 # Profile Summary
-Senior Data Scientist and AI technical lead with 8+ years of experience taking machine-learning and applied-AI initiatives from problem framing and model selection through production delivery. Recent work includes production multi-agent systems, RAG applications for sensitive enterprise knowledge, LLM evaluation, forecasting, recommendation systems, and dynamic pricing. Combines hands-on Python and cloud engineering with technical leadership, mentoring, and clear communication with business and engineering stakeholders.
+Senior Data Scientist and AI technical lead with 8+ years of experience taking machine-learning and applied-AI initiatives from problem framing and model selection through production delivery. Recent work includes architecting a pilot multi-tenant agent platform, MCP-based tool integration, production multi-agent systems, RAG for sensitive enterprise knowledge, LLM evaluation, forecasting, and recommendation systems. Combines hands-on Python and cloud engineering with technical leadership, mentoring, and clear communication with business and engineering stakeholders.
 
 # Education
 - Advance Machine Learning Specialisation | Higher School of Economics (_2020 - 2022_)								       		
@@ -47,28 +47,31 @@ More of my articles can be found on my blog:
 
 ## Lead Data Scientist – AI Initiatives | Stora Enso (_January 2025 - Present_)
 
-- Provide technical leadership across AI initiatives, guiding teams from problem definition and model selection through validation and production delivery.
-- Define solution architectures and engineering practices for scalable, maintainable, and responsible AI systems.
-- Collaborate with data scientists, software engineers, engineering leaders, and business stakeholders to turn ambiguous needs into practical AI solutions.
+**Enterprise Multi-Agent Intelligence Platform (2025 – Present)**
+
+- Architected and built a pilot multi-tenant platform, currently in active development, that answers natural-language business questions by selecting registered agents or dynamically generating specialized LLM agents from a governed tool catalog.
+- Designed both single-agent execution and multi-agent business-case orchestration through decomposition, assignment, execution, and synthesis.
+- Built an MCP server and gateway over Streamable HTTP, with external-connector support, per-connection failure isolation, tool allowlists, and tiered access controls.
+- Implemented allowlisted SQL execution, row-level tenant isolation, audit logging, and sampled LLM-judge evaluations.
+- Delivered real-time SSE streaming between FastAPI and Next.js/React, exposing live agent and tool-call progress.
+- Established a CI-driven agentic SDLC in which maintenance agents address bugs, dependency upgrades, refactoring, and documentation/test updates through pull requests, backed by approximately 2,400 automated tests.
+
+**Stack:** Python, FastAPI, PostgreSQL/PGVector, MCP, Azure OpenAI, Docker, Azure Key Vault, Next.js, React
+
+- Provide technical leadership across AI initiatives, from problem definition and architecture through validation and production delivery.
 - Mentor data scientists and engineers through architectural guidance, code reviews, and production-oriented development practices.
-- Evaluate frameworks, models, and vendors and translate technical trade-offs into recommendations for technical and non-technical stakeholders.
 
 ## Senior Data Scientist | Stora Enso (_June 2022 - 2025)
 
-**AI Negotiation Agent for Stora Enso (2024- Present)**
+**AI Negotiation Agent for Stora Enso (2024 – Present)**
 
-Designed and deployed a production multi-agent AI system that supports commercial negotiations. The system coordinates 5+ specialized LLM agents with domain-specific tools, data sources, and verification mechanisms.
-  
-  Key technical work:
-  - Built a custom multi-agent orchestrator extending Microsoft's Magentic-One framework.
-  - Implemented a verification pipeline that checks agent claims against source data.
-  - Developed a RAG system with PGVector for semantic search over financial reports, news, and customer documents.
-  - Built a Snowflake → PostgreSQL data pipeline serving profitability analytics to agent tools.
-  - Developed an evaluation framework using LLM judges, RAGAS, and reinforcement-learning-based signals.
-  - Deployed the system on Azure using Azure OpenAI, Key Vault, Managed Identity, and Docker.
-  - Supported approximately 10 stakeholders, including decision-makers; system outputs have been used in formal negotiations.
+- Designed and deployed a production multi-agent system, currently operating in monitoring mode, coordinating 5+ specialized LLM agents through a custom orchestrator extending Magentic-One/AutoGen.
+- Implemented source-grounded claim verification and an evaluation framework using LLM judges and RAGAS.
+- Built PostgreSQL/PGVector RAG for financial and customer documents, supported by a Snowflake-to-PostgreSQL profitability-analytics pipeline.
+- Deployed the system on Azure using Azure OpenAI, Key Vault, and Docker.
+- Supported approximately 10 stakeholders, including decision-makers; system outputs have been used in formal negotiations.
 
-  Stack: Python, FastAPI, AutoGen, PostgreSQL/PGVector, Snowflake, Azure OpenAI, Azure, Docker
+**Stack:** Python, FastAPI, AutoGen, PostgreSQL/PGVector, Snowflake, Azure OpenAI, Docker
 
 **AI Acceleration with Generative AI Project (January 2024 - 2025):**
 
