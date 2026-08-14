@@ -2,15 +2,14 @@
 [📄 **Download Latest PDF Resume**](generated/Carlos_Taberner_Resume.pdf)
 
 # Profile Summary
-Senior Data Scientist and AI technical lead with 8+ years of experience taking machine-learning and applied-AI initiatives from problem framing and model selection through production delivery. Recent work includes architecting a pilot multi-tenant agent platform, MCP-based tool integration, production multi-agent systems, RAG for sensitive enterprise knowledge, LLM evaluation, forecasting, and recommendation systems. Combines hands-on Python and cloud engineering with technical leadership, mentoring, and clear communication with business and engineering stakeholders.
+Lead Data Scientist and AI technical lead with 8+ years of experience developing, evaluating and productionizing machine-learning systems across NLP, recommendation, ranking, forecasting, dynamic pricing and generative AI. Brings formal study in data analysis/statistics, advanced machine learning and NLP to technical and business decisions, using statistical reasoning, experimental design, rigorous baselines and quantitative evaluation. Owns the full lifecycle from problem formulation through deployment, governance, monitoring and stakeholder adoption. Recent work spans enterprise RAG, LLM and agent evaluation, multi-agent orchestration and MCP-based AI platforms, applying new AI capabilities within a broader foundation in machine learning and reliable system design.
 
 # Education
-- Advance Machine Learning Specialisation | Higher School of Economics (_2020 - 2022_)								       		
-- Data Analysis/Statistics | Nackademin (_2015 - 2017_)	 			        		
+- Data Analysis / Statistics | Nackademin (_2015 - 2017_)
 - International Relations | Stockholms University (_2010 - 2015_)
 
-### Courses & Specialisations  
-- Advance Machine Learning Specialisation | Higher School of Economics (_2020 - 2022_)								       		
+### Advanced Technical Specialisations
+- Advanced Machine Learning Specialisation | Higher School of Economics (_2020 - 2022_)
 - [Natural Language Processing Specialisation (_2023_)](https://coursera.org/share/5155ae51c7b6ae9566525b2a19d40efa)
 
 # Publications, Projects & Podcasts
@@ -25,16 +24,16 @@ More of my articles can be found on my blog:
 
 
 # Key Skills 
+- **Statistical Modeling & Experimentation:** Bayesian and probabilistic modeling, A/B testing, experimentation frameworks, time-series modeling and forecasting, model evaluation and experiment tracking, regression and classification, Markov-chain attribution modeling, feature engineering, exploratory data analysis
 - **Programming Languages & Libraries:** Python, SQL, R, Pandas, NumPy, TensorFlow, PyTorch, Scikit-Learn, Lifetimes Python Package, MLFlow, Streamlit
 - **NLP and generative AI:** Hugging Face, NLTK, SpaCy, LangChain, LangGraph, AutoGen
-- **Machine Learning & Data Science:** Reinforcement Learning, Deep Learning, Transfer Learning, Federated Learning, Recommendation Systems, Model Optimization, Model Tracking, Time Series Modeling, Feature Engineering, EDA, Bayesian Statistics, Dynamic Pricing
+- **Machine Learning & Data Science:** Reinforcement Learning, Deep Learning, Transfer Learning, Federated Learning, Recommendation Systems, Model Optimization, Model Tracking, Dynamic Pricing
 - **Cloud Services:** Snowflake, AWS, Azure, GCP
 - **Development Tools & Version Control:** GIT, GitLab, JIRA, Trello, Asana
 - **Visualization Tools:** Tableau, Google Data Studio, Power BI, Looker, D3.js
 - **MLOps and Deployment:** CI/CD Pipelines, Kubernetes, Docker
 - **Big Data Technologies:** Apache Spark, Hadoop
 - **Data Governance and Compliance:** GDPR, CCPA
-- **Experimentation and Testing:** A/B Testing, Experimentation Frameworks
 
 ## Soft Skills
 - Effective mentor to junior data scientists, interns, and university students, helping them develop skills in Python, ML fundamentals, and production workflows.
