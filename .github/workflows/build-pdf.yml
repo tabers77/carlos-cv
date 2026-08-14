@@ -4,6 +4,12 @@ on:
   push:
     paths:
       - '**.md'
+      - '.github/workflows/build-pdf.yml'
+  workflow_dispatch:
+
+concurrency:
+  group: build-pdf-${{ github.ref }}
+  cancel-in-progress: true
 
 jobs:
   render:
@@ -24,15 +30,38 @@ jobs:
         run: |
           sudo apt-get install -y wkhtmltopdf
 
-      - name: Convert Markdown to PDF
+      - name: Build and publish PDF from latest branch
+        env:
+          BRANCH_NAME: ${{ github.ref_name }}
         run: |
-          mkdir -p generated
-          pandoc README.md -o generated/Carlos_Taberner_Resume.pdf --pdf-engine=wkhtmltopdf
-
-      - name: Commit PDF back to repo
-        run: |
+          set -euo pipefail
           git config user.email "actions@github.com"
           git config user.name "GitHub Actions"
-          git add generated/Carlos_Taberner_Resume.pdf
-          git commit -m "Auto-update PDF" || echo "No changes to commit"
-          git push
+
+          # A newer CV edit can reach the branch while this job is rendering.
+          # Always rebuild from the latest branch tip and retry a raced push.
+          for attempt in 1 2 3; do
+            git fetch origin "$BRANCH_NAME"
+            git reset --hard "origin/$BRANCH_NAME"
+
+            mkdir -p generated
+            pandoc README.md \
+              -o generated/Carlos_Taberner_Resume.pdf \
+              --pdf-engine=wkhtmltopdf
+
+            git add generated/Carlos_Taberner_Resume.pdf
+            if git diff --cached --quiet; then
+              echo "PDF is already up to date"
+              exit 0
+            fi
+
+            git commit -m "Auto-update PDF"
+            if git push origin "HEAD:$BRANCH_NAME"; then
+              exit 0
+            fi
+
+            echo "Branch changed during attempt $attempt; rebuilding from the latest commit"
+          done
+
+          echo "Unable to publish the PDF after 3 attempts" >&2
+          exit 1
