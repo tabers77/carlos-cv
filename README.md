@@ -5,7 +5,7 @@
 Senior Data Scientist and AI technical lead with 8+ years of experience developing, evaluating and productionizing machine-learning systems across NLP, recommendation, ranking, forecasting, dynamic pricing and generative AI. Combines formal training in data analysis and statistics, advanced machine learning and NLP with end-to-end ownership from ambiguous problem formulation through experimentation, deployment, governance, monitoring and stakeholder adoption. Translates business questions into valid statistical and ML problems, tests assumptions, establishes rigorous baselines and independent evaluations, and determines when evidence is strong enough to support deployment—and when a model output should not be used. Recent work spans enterprise RAG, LLM and agent evaluation, multi-agent orchestration and MCP-based AI platforms, applying modern AI capabilities within a broader discipline of reliable, reproducible and decision-relevant system design.
 
 # Education
-- Data Analysis / Statistics | Nackademin (_2015 - 2017_)
+- Statistics / Data Analytics | Nackademin (_2015 - 2017_)
 - International Relations | Stockholms University (_2010 - 2015_)
 
 ### Advanced Technical Specialisations
